@@ -10,6 +10,5 @@ git clone https://github.com/ALINUR-404/File_Clone.git
 
 cd File_Clone
 
-python File_V7_9.py
-
-![Screenshot_20240318_085139](https://github.com/ALINUR-404/File_Clone/assets/110050329/a05c6361-e274-4327-8a6f-0654a2b16ad6)
+python File_V8![Screenshot_20240403_040312](https://github.com/ALINUR-404/File_Clone/assets/110050329/cc0e43d4-2aab-46fb-80dc-b19a9377ec23)
+.py
